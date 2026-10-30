@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "@type": "Photograph",
+  "@id": "https://elizakrupczak.github.io/RC_AI_CW_3/items/kr_011.html",
+  "identifier": "kr_011",
+  "name": "Łaźnia Miejska na Kazimierzu: hala basenowa",
+  "creator": {
+    "@type": "Person",
+    "name": "Pracownia Fotograficzna »Lumen«"
+  },
+  "dateCreated": "1929-08-30",
+  "description": "Fotografia pływalni z niecką, galerią dla widzów i rzędem kabin. Basen oddano do użytku w sierpniu 1929 roku.",
+  "keywords": "łaźnie, pływalnie, higiena, Kazimierz, Rudzki-Ostoja",
+  "contentLocation": {
+    "@type": "Place",
+    "name": "ul. Józefa, Kazimierz",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 50.0510,
+      "longitude": 19.9460
+    }
+  },
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "image": "https://raw.githubusercontent.com/ElizaKrupczak/RC_AI_CW_3/main/kr_011%20%281%29.jpg",
+  "inLanguage": "pl",
+  "dc:title": "Łaźnia Miejska na Kazimierzu: hala basenowa",
+  "dc:creator": "Pracownia Fotograficzna »Lumen«",
+  "dc:subject": "łaźnie; pływalnie; higiena; Kazimierz; Rudzki-Ostoja",
+  "dc:description": "Fotografia pływalni z niecką, galerią dla widzów i rzędem kabin. Basen oddano do użytku w sierpniu 1929 roku.",
+  "dc:publisher": "Fikcyjne Archiwum Krakowskie (zbiór dydaktyczny)",
+  "dc:contributor": "brak",
+  "dc:date": "1929-08-30",
+  "dc:type": "Image",
+  "dc:format": "image/jpeg",
+  "dc:identifier": "kr_011",
+  "dc:source": "FAK/1929/011",
+  "dc:language": "pol",
+  "dc:relation": "brak",
+  "dc:coverage": "ul. Józefa, Kazimierz",
+  "dc:rights": "Materiał dydaktyczny, treść fikcyjna (CC0)"
+}
