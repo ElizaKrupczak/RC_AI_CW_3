@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "dc": "http://purl.org/dc/elements/1.1/"
+  },
+  "@type": "Fotografia",
+  "identifier": "kr_011",
+  "name": "Łaźnia Miejska na Kazimierzu: hala basenowa",
+  "autor": { "@type": "Person", "name": "Pracownia Fotograficzna »Lumen«" },
+  "dateCreated": "29.08.1929",
+  "description": "Fotografia pływalni z niecką, galerią dla widzów i rzędem kabin. Basen oddano do użytku w sierpniu 1929 roku.",
+  "contentLocation": {
+    "@type": "Place",
+    "name": "ul. Józefa, Kazimierz",
+    "geo": { "@type": "GeoCoordinates", "latitude": "50,0510", "longitude": 19.9460 }
+  },
+  "license": "CC0",
+  "dc:title": "Łaźnia Miejska na Kazimierzu: hala basenowa",
+  "dcc:creator": "Pracownia Fotograficzna »Lumen«"
+}
