@@ -3,7 +3,7 @@
     "@vocab": "https://schema.org/",
     "dc": "http://purl.org/dc/elements/1.1/"
   },
-  "@type": "Fotografia",
+  "@type": "ImageObject",
   "identifier": "kr_011",
   "name": "Łaźnia Miejska na Kazimierzu: hala basenowa",
   "autor": { "@type": "Person", "name": "Pracownia Fotograficzna »Lumen«" },
